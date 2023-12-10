@@ -25,7 +25,7 @@ Visualize average defect rates across different product types to prioritize qual
 Integrate findings from sales, logistics, inventory, and quality analyses to provide a holistic view of supply chain performance.
 Propose recommendations for strategic improvements and operational enhancements to streamline the supply chain.
 
-## 6) Tools and Technologies:
+## Tools and Technologies:
 Utilize Python programming language with relevant libraries such as Pandas, Plotly,nump and other data analysis tools to conduct a thorough and insightful supply chain analysis.
 
 
